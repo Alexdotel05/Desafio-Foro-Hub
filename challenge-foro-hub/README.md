@@ -130,20 +130,9 @@ Para poner en marcha el sistema, sigue estos pasos finales:
 Este proyecto es el resultado de un camino de aprendizaje constante apoyado por:
 
 * **Oracle Next Education (ONE) & Alura Latam:** Por el desafío técnico y la estructura educativa de excelencia que brindan.
-* **Comunidad de Desarrolladores:** Por el feedback constante y el intercambio de conocimientos en cada iteración del código.
 
 ---
-
-## 👩‍💻 Autora
-
-**Natalia Schwindt** | 📍 Buenos Aires, Argentina  
-*Comprometida con la creación de software con propósito y calidad técnica.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-schwindt-react-java-developer/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Natalia-Schwindt)
 
 ## 🪐 Licencia
 
 Este proyecto está bajo la **Licencia MIT**. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
-
-© 2026 - **Natalia Schwindt**
